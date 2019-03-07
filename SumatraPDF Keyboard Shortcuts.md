@@ -1,4 +1,10 @@
+#Yooo!
+
+
+###Navigation
 **#Navigation**
+
+#Testing testing 1.2.3 _v1
 
 <br>j/k, Up/Down - scroll up/down by line
 <br>space - scroll by screen
@@ -14,7 +20,6 @@
 <br>b - flip a page in book mode
 <br><Ctrl> + <Shift> + Right - open next document in the directory
 <br><Ctrl> + <Shift> + Left - open previous document in the directory
-<br> 	
 <br>**Actions**
 <br><Ctrl> + O - open a new document
 <br><Ctrl> + W - close current document
